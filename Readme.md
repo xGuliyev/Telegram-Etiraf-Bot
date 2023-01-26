@@ -1,29 +1,29 @@
 # Telegram-Etiraf-Bot
 
 
-- # VPS kurulum
+- # VPS qurulum
 
 1. Reponu klonla
    ```markdown
    git clone https://github.com/Guliyev-di/Telegram-Etiraf-Bot
    ```
    
-2. Repoya giriş yap
+2. Repoya daxil ol
     ```markdown
     cd Telegram-Etiraf-Bot
    ```
 
-3. Kütüphaneleri yükle
+3. Kitabxanaları yüklə
     ```markdown
    pip3 install -U -r requirements.txt
     ```
 
-4. Config dosyasını düzenle
+4. Config faylında düzəliş et
     ```markdown
    nano config.py
     ```   
 
-5. Botu başlat
+5. Botu başlad
    ```markdown
    python3 main.py
    ```
